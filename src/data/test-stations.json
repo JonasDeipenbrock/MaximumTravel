@@ -1,0 +1,28 @@
+[
+    {
+        "Bundesland": "Hessen",
+        "RB": "RB Mitte",
+        "BM": "Darmstadt",
+        "Bf. Nr.": 119,
+        "Station": "Altheim (Hess)",
+        "Bf DS 100Abk.": "FAT",
+        "Kat. Vst": 6,
+        "Straße": "Münstererstr. 19",
+        "PLZ": 64839,
+        "Ort": "Münster",
+        "Aufgabenträger": "Rhein-Main-Verkehrsverbund GmbH"
+      },
+      {
+        "Bundesland": "Hessen",
+        "RB": "RB Mitte",
+        "BM": "Darmstadt",
+        "Bf. Nr.": 201,
+        "Station": "Assmannshausen",
+        "Bf DS 100Abk.": "FAH",
+        "Kat. Vst": 5,
+        "Straße": "Bahnhofstr. 1",
+        "PLZ": 65385,
+        "Ort": "Rüdesheim am Rhein",
+        "Aufgabenträger": "Rhein-Main-Verkehrsverbund GmbH"
+      }
+]
