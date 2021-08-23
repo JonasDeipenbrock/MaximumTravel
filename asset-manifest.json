@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/MaximumTravel.github.io/static/js/main.16a4f0d2.chunk.js",
+    "main.js.map": "/MaximumTravel.github.io/static/js/main.16a4f0d2.chunk.js.map",
+    "runtime-main.js": "/MaximumTravel.github.io/static/js/runtime-main.87a6621e.js",
+    "runtime-main.js.map": "/MaximumTravel.github.io/static/js/runtime-main.87a6621e.js.map",
+    "static/css/2.a302f2b2.chunk.css": "/MaximumTravel.github.io/static/css/2.a302f2b2.chunk.css",
+    "static/js/2.dc7d8999.chunk.js": "/MaximumTravel.github.io/static/js/2.dc7d8999.chunk.js",
+    "static/js/2.dc7d8999.chunk.js.map": "/MaximumTravel.github.io/static/js/2.dc7d8999.chunk.js.map",
+    "index.html": "/MaximumTravel.github.io/index.html",
+    "static/css/2.a302f2b2.chunk.css.map": "/MaximumTravel.github.io/static/css/2.a302f2b2.chunk.css.map",
+    "static/js/2.dc7d8999.chunk.js.LICENSE.txt": "/MaximumTravel.github.io/static/js/2.dc7d8999.chunk.js.LICENSE.txt",
+    "static/js/main.16a4f0d2.chunk.js.LICENSE.txt": "/MaximumTravel.github.io/static/js/main.16a4f0d2.chunk.js.LICENSE.txt",
+    "static/media/300.css": "/MaximumTravel.github.io/static/media/roboto-vietnamese-300-normal.af9afdc1.woff2",
+    "static/media/400.css": "/MaximumTravel.github.io/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/500.css": "/MaximumTravel.github.io/static/media/roboto-vietnamese-500-normal.b8e494da.woff2",
+    "static/media/700.css": "/MaximumTravel.github.io/static/media/roboto-vietnamese-700-normal.3096f18a.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87a6621e.js",
+    "static/css/2.a302f2b2.chunk.css",
+    "static/js/2.dc7d8999.chunk.js",
+    "static/js/main.16a4f0d2.chunk.js"
+  ]
+}
